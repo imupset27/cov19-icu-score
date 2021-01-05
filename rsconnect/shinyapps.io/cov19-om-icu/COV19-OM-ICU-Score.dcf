@@ -1,0 +1,13 @@
+name: COV19-OM-ICU-Score
+title: COV19-OM-ICU-Score
+username:
+account: cov19-om-icu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3183599
+bundleId: 4054032
+url: https://stat-hct-edu-om.shinyapps.io/COV19-OM-ICU-Score/
+when: 1609703815.54839
+lastSyncTime: 1609703815.54839
+asMultiple: FALSE
+asStatic: FALSE
