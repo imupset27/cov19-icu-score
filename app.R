@@ -69,7 +69,7 @@ shinyApp(
             sidebarMenu(id="tabs",
             menuItem("The COVID-19 Project", 
                      tabName = "home",
-                     # selected = TRUE,
+                     selected = TRUE,
                      icon = icon("home")
                      #badgeLabel = "New"
                      ),
@@ -81,7 +81,7 @@ shinyApp(
             ),
             menuItem("Objective 2: CoV19-OM ICU Score", 
                      tabName = "score",
-                     selected = TRUE,
+                     #selected = TRUE,
                      icon = icon("bullseye")
                      #badgeLabel = "New"
             ),
